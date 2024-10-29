@@ -15,7 +15,8 @@
     -   Counts raised fingers using coordinates of landmarks for each detected hand.
     -   Displays the count on the screen.
 -   **Run Loop**: Continuously processes video frames to update hand detection and finger count.
-    Exit: Ends the loop and releases the camera when 'ESC' is pressed.
+    
+-    **Exit**: Ends the loop and releases the camera when 'ESC' is pressed.
 
 ### Usage
 
