@@ -2,7 +2,7 @@
 
 *This Python code uses OpenCV and MediaPipe to detect and count raised fingers in real time through a webcam feed.*
 
-![Example](img/project.png)
+![Example](https://github.com/salzani/handRecognition/blob/main/handProject.gif)
 
 ## **Code Summary**
 
